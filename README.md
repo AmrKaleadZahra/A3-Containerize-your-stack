@@ -1,4 +1,4 @@
-# A2 Connecting to the database
+# Containerize your stack
 # ASP.NET Core Tasks API
 
 A RESTful Web API built with **ASP.NET Core** and **Entity Framework Core** for managing tasks. The project demonstrates CRUD operations, filtering, searching, database integration with SQL Server, dependency injection, and clean API design.
@@ -17,6 +17,8 @@ A RESTful Web API built with **ASP.NET Core** and **Entity Framework Core** for 
 * Dependency Injection
 * Async programming with `async`/`await`
 * Swagger/OpenAPI support
+* Dockerfile Support
+* Docker Compose
 
 ## Technologies
 
