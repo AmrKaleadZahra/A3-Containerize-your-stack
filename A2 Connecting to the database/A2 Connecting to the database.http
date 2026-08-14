@@ -1,0 +1,6 @@
+@A2_Connecting_to_the_database_HostAddress = http://localhost:5258
+
+GET {{A2_Connecting_to_the_database_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
